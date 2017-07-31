@@ -1,6 +1,6 @@
 # Simple Redux Example
 
-This is small application for [this tutorial](#) on Redux, using a starter template from [ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter).
+This is small application for [this tutorial](https://blog.pusher.com/the-what-and-why-of-redux/) on Redux, using a starter template from [ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter).
 
 ### Getting Started ###
 
